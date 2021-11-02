@@ -17,7 +17,7 @@ class LoadingScreen extends StatefulWidget {
 
 class _LoadingScreenState extends State<LoadingScreen> {
 
-  String apilink = 'https://api.nasa.gov/planetary/apod?api_key=6Bi8vbvUqCaZAboBWpgWwyzmV68lGCRmf6GjWgv4&thumbs=True';
+  String apilink = 'https://api.nasa.gov/planetary/apod?api_key=your_api_key&thumbs=True';
   String kanyeapi = 'https://api.kanye.rest/';
 
   bool pic = false;
