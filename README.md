@@ -6,4 +6,4 @@ Sample Wallpaper -
 
 The background image changes every 24 hours, while a new quote can be generated anytime by the user. You will have to enter your own nasa api key, which you can generate [here](https://api.nasa.gov/).
 
-**The image quality may not good**
+
